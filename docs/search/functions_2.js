@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['startup_19',['Startup',['../class_estimate_formulas_api_1_1_startup.html#a29b86ad7076940c9c775fe291349d830',1,'EstimateFormulasApi::Startup']]]
+  ['configure_132',['Configure',['../class_estimate_formulas_api_1_1_startup.html#a0362c281c44b532278c1ca5721426b42',1,'EstimateFormulasApi::Startup']]],
+  ['configureservices_133',['ConfigureServices',['../class_estimate_formulas_api_1_1_startup.html#a2feca52055e4b4273b146892fb6bcfab',1,'EstimateFormulasApi::Startup']]],
+  ['createhostbuilder_134',['CreateHostBuilder',['../class_estimate_formulas_api_1_1_program.html#a85cd66e1c6a6d4d4d6bedf8729f9ebf2',1,'EstimateFormulasApi::Program']]]
 ];

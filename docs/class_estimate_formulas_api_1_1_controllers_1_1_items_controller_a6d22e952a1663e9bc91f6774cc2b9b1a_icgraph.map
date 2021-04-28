@@ -1,0 +1,4 @@
+<map id="EstimateFormulasApi.Controllers.ItemsController.GetItem" name="EstimateFormulasApi.Controllers.ItemsController.GetItem">
+<area shape="rect" id="node1" title="Method to get an Item based on its id. api/Items/5" alt="" coords="272,5,491,47"/>
+<area shape="rect" id="node2" href="$class_estimate_formulas_api_1_1_controllers_1_1_items_controller.html#a51d1e2d5e48c43c1f2f1eb2bd7104da8" title="Method to add a new Item. POST: api/Items" alt="" coords="5,5,224,47"/>
+</map>
